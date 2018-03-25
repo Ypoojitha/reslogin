@@ -1,0 +1,94 @@
+body {
+	background: url("C:/Users/kranthi/Desktop/Projects/Google Project/images/11.jpg") no-repeat center center fixed;
+	width:100%;
+	height:100%;
+}
+
+.intro {
+  float:left;
+}
+
+.vl {
+    border-left: 1px solid white;
+    height: 200px;
+}
+
+.content{
+  margin-left: 50px;
+  margin-top: 80px;
+}
+
+.content p{
+  padding-left: 10px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50%;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.content1 {
+  padding-left: 450px;
+  float: left;
+}
+
+.content1 p{
+  padding-left: 8px;
+}
+
+.cancelbtn {
+    width: auto;
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+
+.signupbtn {
+  width:30%;
+  padding: 14px 20px;
+  background-color: #4CAF50;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+img.avatar {
+    width: 10%;
+    border-radius: 50%;
+}
